@@ -23,13 +23,13 @@ export default function Nav() {
             <a href="#about">About</a>
           </li>
           <li>
-            <a href="#work">Work</a>
+            <a href="#about">Work</a>
           </li>
           <li>
             <a href="#portfolio">Portfolio</a>
           </li>
           <li>
-            <a href="#contact">Contact</a>
+            <a href="#contact" className={styles.spotnanaLink}>Why Spotnana</a>
           </li>
         </ul>
       </div>
