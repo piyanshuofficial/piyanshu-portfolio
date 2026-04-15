@@ -25,14 +25,11 @@ export default function Hero() {
             </h1>
 
             <p className={styles.subheadline}>
-              ~10 years in B2B product&nbsp;&nbsp;|&nbsp;&nbsp;Rs.24 Cr+ ARR across 800+ enterprise deployments&nbsp;&nbsp;|&nbsp;&nbsp;
-              From 13,000-line specs to production backends - I build what I define
+              ~10 years in B2B product&nbsp;&nbsp;|&nbsp;&nbsp;Rs.24 Cr+ ARR across 800+ enterprise deployments&nbsp;&nbsp;|&nbsp;&nbsp; From 13,000-line specs to production backends -I build what I define
             </p>
 
             <p className={styles.description}>
-              I build products that work — from 13,000-line functional specs to production
-              backends built with Claude Code. Currently exploring Senior PM opportunities
-              in AI, agentic systems, and data platforms.
+              I build products that work — from 13,000-line functional specs to production backends built with Claude Code. Currently exploring Senior PM opportunities in AI, agentic systems, and data platforms.
             </p>
 
             <div className={styles.ctaRow}>

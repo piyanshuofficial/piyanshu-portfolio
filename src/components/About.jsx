@@ -17,11 +17,11 @@ export default function About() {
           {/* Right: narrative paragraphs */}
           <div className={styles.textCol}>
             <p className={styles.para}>
-              I have ~10 years of professional experience, with the last 7 in product management at Spectra - a B2B managed connectivity company. I joined as an enterprise account manager, moved into product within a year, and have owned the company's primary revenue product (500+ sites, ~Rs.18 Cr ARR) while simultaneously launching four new product lines from scratch.
+              I have ~10 years of professional experience, with the last 7 in product management at Spectra - a B2B managed connectivity company. I joined as an enterprise account manager, moved into product within a year, and have since owned the company's primary revenue product (500+ sites, ~ INR.18 Cr+ ARR) while simultaneously launching four new product lines from scratch.
             </p>
 
             <p className={styles.para}>
-              My most unusual credential as a PM: when the engineering team couldn't start database tables, JWT authentication with RBAC, all working in production. Using Claude Code. What IT estimated at 125 days, I delivered independently. The 13,144-line functional requirements document I wrote for the same platform scored 94/100 on completeness.
+              My most unusual credential as a PM: when the engineering team could not start on the SpectraOne platform backend, I built it myself -- 40+ REST APIs, 24 database tables, JWT authentication with RBAC, all working in production using Claude Code. What IT estimated at 125 days, I delivered independently. The same platform started with a 13,144-line functional requirements document I authored before a single line of code was written.
             </p>
 
             <p className={styles.para}>
