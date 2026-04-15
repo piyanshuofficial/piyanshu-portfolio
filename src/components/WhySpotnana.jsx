@@ -5,6 +5,7 @@ import { LINKEDIN_URL, EMAIL } from "@/config/links";
 export default function WhySpotnana() {
   return (
     <section className={styles.section} id="contact">
+      <span className={styles.watermark} aria-hidden="true">Spotnana</span>
       <div className={styles.container}>
         {/* COMPANY_SPECIFIC_SECTION -- update for each org */}
         <p className={styles.label}>WHY SPOTNANA</p>
