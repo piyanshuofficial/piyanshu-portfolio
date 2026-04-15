@@ -132,19 +132,21 @@
 
 /* Terminal card */
 .terminalCard {
-  background: #111119;
-  border: 1px solid rgba(0, 200, 150, 0.2);
+  background: #16161F;
+  border: 1px solid rgba(0, 200, 150, 0.35);
+  border-top: 2px solid rgba(0, 200, 150, 0.6);
   border-radius: 8px;
   overflow: hidden;
   animation: fadeInUp 0.7s 0.4s ease both;
-  box-shadow: 0 0 0 1px rgba(0, 200, 150, 0.05), inset 0 1px 0 rgba(255, 255, 255, 0.04);
+  box-shadow: 0 0 32px rgba(0, 200, 150, 0.08), 0 8px 32px rgba(0, 0, 0, 0.4);
 }
 
 .terminalDots {
   display: flex;
   gap: 6px;
   padding: 12px 16px;
-  border-bottom: 1px solid rgba(255, 255, 255, 0.06);
+  border-bottom: 1px solid rgba(0, 200, 150, 0.12);
+  background: #0F0F17;
 }
 
 .terminalDots span {
@@ -154,9 +156,9 @@
   background: rgba(255, 255, 255, 0.12);
 }
 
-.terminalDots span:first-child { background: rgba(255, 95, 86, 0.6); }
-.terminalDots span:nth-child(2) { background: rgba(255, 189, 46, 0.6); }
-.terminalDots span:last-child { background: rgba(39, 201, 63, 0.6); }
+.terminalDots span:first-child { background: rgba(255, 95, 86, 0.85); }
+.terminalDots span:nth-child(2) { background: rgba(255, 189, 46, 0.85); }
+.terminalDots span:last-child { background: rgba(39, 201, 63, 0.85); }
 
 .terminalCode {
   font-family: var(--font-mono), monospace;
