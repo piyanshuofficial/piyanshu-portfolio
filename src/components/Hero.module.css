@@ -29,7 +29,7 @@
   display: grid;
   grid-template-columns: 60fr 40fr;
   gap: 64px;
-  align-items: center;
+  align-items: start;
 }
 
 /* Text column */
@@ -171,7 +171,8 @@
 .photoCol {
   display: flex;
   justify-content: center;
-  align-items: center;
+  align-items: flex-start;
+  padding-top: 12px;
 }
 
 .photoHalo {
