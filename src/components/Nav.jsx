@@ -29,7 +29,7 @@ export default function Nav() {
             <a href="#portfolio">Portfolio</a>
           </li>
           <li>
-            <a href="#contact" className={styles.spotnanaLink}>Why Spotnana</a>
+            <a href="#why-spotnana" className={styles.spotnanaLink}>Why Spotnana</a>
           </li>
         </ul>
       </div>
