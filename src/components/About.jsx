@@ -4,7 +4,7 @@ export default function About() {
   return (
     <section className={styles.about} id="about">
       <div className={styles.container}>
-        <p className={styles.label}>THE WORK</p>
+        <p className={styles.label}>ABOUT ME</p>
 
         <div className={styles.columns}>
           {/* Left: pull quote */}
