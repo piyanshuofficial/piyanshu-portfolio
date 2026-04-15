@@ -23,7 +23,7 @@ export default function Nav() {
             <a href="#about">About</a>
           </li>
           <li>
-            <a href="#about">Work</a>
+            <a href="#about">About Me</a>
           </li>
           <li>
             <a href="#portfolio">Portfolio</a>
