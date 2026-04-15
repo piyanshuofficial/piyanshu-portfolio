@@ -34,7 +34,7 @@ const cards = [
     tag: "Developer Tool | Authentication | Testing",
     title: "WiFi Captive Portal Login Tester",
     description:
-      "A developer and QA tool for testing WiFi captive portal login flows across 17 authentication methods — OTP (SMS/WhatsApp/Email), Social Login (Google/Facebook/Apple), SSO (SAML/OAuth2), MAC Auth, Voucher Auth, and more. Built to validate authentication UX across 26 segment-authentication configurations without needing live network infrastructure.",
+      "A developer and QA tool for testing WiFi captive portal login flows across multiple authentication methods. Built to validate authentication UX across 26 segment-authentication configurations without needing live network infrastructure.",
     stats: [
       "17 authentication methods",
       "26 segment configurations",
