@@ -26,7 +26,7 @@ export default function Hero() {
 
             <p className={styles.subheadline}>
               ~10 years in B2B product&nbsp;&nbsp;|&nbsp;&nbsp;Rs.24 Cr+ ARR across 800+ enterprise deployments&nbsp;&nbsp;|&nbsp;&nbsp;
-              Built a production backend in a day that engineering estimated at 125
+              From 13,000-line specs to production backends - I build what I define
             </p>
 
             <p className={styles.description}>
