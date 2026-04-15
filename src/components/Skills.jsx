@@ -22,8 +22,8 @@ const technicalTools = [
   "SQL (working knowledge)",
   "Jira / Confluence",
   "Figma",
-  "Ekahau (WiFi survey)",
-  "JMeter / LoadRunner (Wipro background)",
+  "Amplitude / Mixpanel (product analytics)",
+  "Postman (API testing & validation)",
 ];
 
 export default function Skills() {
