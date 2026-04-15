@@ -1,7 +1,7 @@
 import styles from "./MetricsBar.module.css";
 
 const metrics = [
-  { value: "Rs.24 Cr+", label: "ARR Managed & Built" },
+  { value: "Rs.24 Cr+", label: "ARR Built & Managed" },
   { value: "800+", label: "Enterprise Deployments" },
   { value: "13,144", label: "Lines in FRD (SpectraOne)" },
   { value: "40+", label: "APIs Built (Claude Code)" },
