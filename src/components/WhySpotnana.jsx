@@ -28,7 +28,7 @@ export default function WhySpotnana() {
           </p>
 
           <p className={styles.para}>
-            I'm applying for the AI &amp; Data and Agent Assistance teams. I'd like to talk.
+            I'm applying for the AI &amp; Data and Agent Assistance teams. Let's talk.
           </p>
 
           <div className={styles.ctaRow}>
