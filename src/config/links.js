@@ -8,4 +8,4 @@ export const LINKEDIN_URL = "https://www.linkedin.com/in/piyanshuagrawal";
 export const EMAIL = "mailto:piyanshu@gmail.com";
 
 // TODO: Replace with actual resume PDF link
-export const RESUME_URL = "https://drive.google.com/file/d/1WEgXj78wAvUrJKFh2QzgW08I5Iq7xHaE/view?usp=sharing";
+export const RESUME_URL = "https://drive.google.com/file/d/14KFvSHFsf0nAGPGEDAcy8DhMQJIVxTk9/view?usp=sharing";
