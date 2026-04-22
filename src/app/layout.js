@@ -22,7 +22,7 @@ export const metadata = {
   openGraph: {
     title: "Piyanshu Agrawal — Senior Product Manager",
     description:
-      "Senior PM applying to Spotnana. Built SpectraOne: 13,144-line FRD, 40+ APIs, 87,982-line React frontend.",
+      "Senior PM with ~10 years in B2B product. Built SpectraOne: 13,144-line FRD, 40+ APIs, 87,982-line React frontend.",
     type: "website",
   },
 };

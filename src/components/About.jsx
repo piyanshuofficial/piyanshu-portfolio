@@ -29,7 +29,7 @@ export default function About() {
             </p>
 
             <p className={styles.para}>
-              I'm drawn to problems where data reliability and trustworthy AI decisions matter — not just technically, but commercially. Building the data engine that makes autonomous travel possible, or the permission model that makes an AI travel agent trustworthy enough to act on your behalf — these are product problems I want to work on.
+              I'm drawn to problems where data reliability and trustworthy AI decisions matter — not just technically, but commercially. Building infrastructure that makes autonomous AI systems trustworthy enough to act on a user's behalf, or the data layer that powers real decisions rather than just dashboards — these are the problems I want to work on next.
             </p>
           </div>
         </div>

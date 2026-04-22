@@ -26,7 +26,7 @@ export default function Nav() {
             <a href="#portfolio">Portfolio</a>
           </li>
           <li>
-            <a href="#why-spotnana" className={styles.spotnanaLink}>Why Spotnana</a>
+            <a href="#contact" className={styles.spotnanaLink}>Let's Talk</a>
           </li>
         </ul>
       </div>

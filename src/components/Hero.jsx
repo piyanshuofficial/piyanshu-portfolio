@@ -37,7 +37,7 @@ export default function Hero() {
                 View Portfolio
               </a>
               {/* TODO: Replace with actual resume PDF link */}
-              <a href={RESUME_URL} className={styles.ctaSecondary}>
+              <a href={RESUME_URL} className={styles.ctaSecondary} target="_blank" rel="noopener noreferrer">
                 Download Resume
               </a>
             </div>

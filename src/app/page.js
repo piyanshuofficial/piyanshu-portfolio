@@ -4,7 +4,7 @@ import About from "@/components/About";
 import MetricsBar from "@/components/MetricsBar";
 import Portfolio from "@/components/Portfolio";
 import Skills from "@/components/Skills";
-import WhySpotnana from "@/components/WhySpotnana";
+import Contact from "@/components/Contact";
 import Footer from "@/components/Footer";
 
 export default function Home() {
@@ -17,7 +17,7 @@ export default function Home() {
         <MetricsBar />
         <Portfolio />
         <Skills />
-        <WhySpotnana />
+        <Contact />
       </main>
       <Footer />
     </>
